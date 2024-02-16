@@ -1,0 +1,23 @@
+which is the container datatype:
+int 
+float 
+list 
+double
+base language for websites?
+python
+java
+html
+c++
+secondary memory is also called"
+RAM
+VIRTUAL MEMORY
+VRAM
+ROM
+CAN WE CREATE WEB APPLICATION WITH C++
+YES
+NO
+WHICH IS NOT A FRAMEWORK
+VUE
+JAVASCRIPT
+FLASK
+ANGULAR
